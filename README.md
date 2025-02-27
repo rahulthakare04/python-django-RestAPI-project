@@ -1,3 +1,7 @@
+
+
+
+
 # Django REST API Project
 
 This project contains a Django-based REST API for handling various functionalities, including students, books, and football players.
@@ -43,7 +47,7 @@ python manage.py runserver
 
 ## Video Execution
 
-For a step-by-step guide on setting up and running the Django REST API project, refer to the provided video tutorial.
+[For a step-by-step guide on setting up and running the Django REST API project, refer to the provided video tutorial.](https://github.com/user-attachments/assets/723596ea-0f91-4711-beca-ba8befbec46c)
 
 ## Notes
 

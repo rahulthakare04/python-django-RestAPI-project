@@ -15,7 +15,7 @@ This project contains a Django-based REST API for handling various functionaliti
 
 ### Books API
 
-- **Get All Books** (`GET /books/all/`)
+- **Get All Books** (`GET /books/all/`)(using mongodb)
 
 ### Football Players API
 

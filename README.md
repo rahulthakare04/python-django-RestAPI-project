@@ -6,16 +6,6 @@
 
 This project contains a Django-based REST API for handling various functionalities, including students, books, and football players.
 
-## Requirements
-
-Make sure you have the following dependencies installed:
-
-```bash
-pip install django
-```
-
-## API Endpoints
-
 ### Students API
 
 - **Get All Students** (`GET /students/all/`)
@@ -31,19 +21,6 @@ pip install django
 
 - **Get Players by Nationality** (`POST /player/nation/` with `nation` in the request body)
 
-## Running the API
-
-1. Navigate to the project directory and run migrations:
-
-```bash
-python manage.py migrate
-```
-
-2. Start the Django server:
-
-```bash
-python manage.py runserver
-```
 
 ## Video Execution
 
